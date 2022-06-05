@@ -12,6 +12,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "FMDB",
+  "author": "Jatin Sagar",
   "license": "ISC"
 }
