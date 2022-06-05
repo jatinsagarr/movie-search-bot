@@ -3,7 +3,7 @@ const axios = require("axios");
 const express = require("express");
 
 
-const bot = new Telegraf("5099926432:AAFwgjzeIcxlj76-qEGIkOiBO4jNjyw-WSI");
+const bot = new Telegraf("bot_token_here");
 
 const app = express();
 
